@@ -1,0 +1,12 @@
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\bin\Debug\Spectrum ADB.exe.config
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\bin\Debug\Spectrum ADB.exe
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\bin\Debug\Spectrum ADB.pdb
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\bin\Debug\Spectrum ADB.xml
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\obj\Debug\Spectrum ADB.vbprojAssemblyReference.cache
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\obj\Debug\Spectrum_ADB.Form1.resources
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\obj\Debug\Spectrum_ADB.Resources.resources
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\obj\Debug\Spectrum ADB.vbproj.GenerateResource.cache
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\obj\Debug\Spectrum ADB.vbproj.CoreCompileInputs.cache
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\obj\Debug\Spectrum ADB.exe
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\obj\Debug\Spectrum ADB.xml
+C:\Users\Dominick\source\repos\Spectrum ADB\Spectrum ADB\obj\Debug\Spectrum ADB.pdb
